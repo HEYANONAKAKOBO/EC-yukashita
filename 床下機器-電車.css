@@ -89,3 +89,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.tokubetu {
+  color: red;
+  font-size: 25px;
+}
